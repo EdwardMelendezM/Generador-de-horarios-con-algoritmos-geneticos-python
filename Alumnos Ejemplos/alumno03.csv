@@ -1,0 +1,22 @@
+﻿Codigo,Nombre,Dias,Horas,Creditos,Semestre
+INF1,Programacion,"lunes,miercoles","7-9,7-9",3,2
+INF2,Algoritmica,"lunes,miercoles,viernes","9-11,9-11,9-10",4,3
+INF3,ADA,"lunes,miercoles","11-13,11-13",3,3
+INF4,Ing Economica,"martes,jueves,viernes","7-9,7-9,8-9",4,3
+INF5,BaseDeDatos,"martes,jueves,viernes","9-11,9-11,10-11",3,3
+INF6,Ecuaciones D,"martes,jueves,viernes","11-13,11-13,12-13",3,2
+INF7,Programacion,"lunes,miercoles","13-15,13-15",3,2
+INF8,,Algoritmica,"martes,jueves,viernes","13-15,13-15,14-15",4,3
+INF9,ADA,"lunes,miercoles","13-15,13-15",3,3
+INF10,Ing Economica,"martes,jueves,viernes","15-17,15-17,16-17",4,3
+INF11,BaseDeDatos,"lunes,miercoles,viernes","15-17,15-17,17-18",3,3
+INF12,Ecuaciones D,"martes,jueves,viernes","17-19,17-19,18-19",3,2
+I001,Ingles IV,"lunes,martes,miercoles,jueves,viernes","13-15,13-15,13-15,13-15,13-15",1,3
+I002,Ingles IV,"lunes,martes,miercoles,jueves,viernes","15-17,15-17,15-17,15-17,15-17",1,3
+I003,Ingles IV,"lunes,martes,miercoles,jueves,viernes","17-19,17-19,17-19,17-19,17-19",1,3
+I004,Ingles IV,"lunes,martes,miercoles,jueves,viernes","18-20,18-20,18-20,18-20,18-20",1,3
+I005,Ingles IV,"lunes,martes,miercoles,jueves,viernes","7-9,7-9,7-9,7-9,7-9",1,3
+I006,Ingles IV,"lunes,martes,miercoles,jueves,viernes","9-11,9-11,9-11,9-11,9-11",1,3
+I007,Ingles IV,"lunes,martes,miercoles,jueves,viernes","11-13,11-13,11-13,11-13,11-13",1,3
+I008,Ingles IV,"lunes,martes,miercoles,jueves,viernes","13-15,13-15,13-15,13-15,13-15",1,3
+Q001,Quechua II,""lunes,martes,miercoles,jueves,viernes"",""17-19,17-19,17-19,17-19,17-19",1,3
